@@ -49,7 +49,11 @@ function factorial(x) {
 - **Postindustria**
   - PI School
 
-## Language
+## Experience
+
+- [My first CV](https://sovering.github.io/rsschool-cv/cv)
+
+## Languages
 
 - Ukrainian - native speaker
 - Russian - native speaker
