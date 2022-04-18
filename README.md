@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Sovering.github.io/rsschool-cv/cv
